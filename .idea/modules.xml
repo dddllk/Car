@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-CarFactory/01-CarFactory.iml" filepath="$PROJECT_DIR$/01-CarFactory/01-CarFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-SportCar/02-SportCar.iml" filepath="$PROJECT_DIR$/02-SportCar/02-SportCar.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-SuvCar/03-SuvCar.iml" filepath="$PROJECT_DIR$/03-SuvCar/03-SuvCar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-JDBC开发演示/04-JDBC开发演示.iml" filepath="$PROJECT_DIR$/04-JDBC开发演示/04-JDBC开发演示.iml" />
       <module fileurl="file://$PROJECT_DIR$/Car.iml" filepath="$PROJECT_DIR$/Car.iml" />
     </modules>
   </component>
