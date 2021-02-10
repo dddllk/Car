@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/07-部门管理系统/07-部门管理系统.iml" filepath="$PROJECT_DIR$/07-部门管理系统/07-部门管理系统.iml" />
       <module fileurl="file://$PROJECT_DIR$/08-JDBC UNTIL封装/08-JDBC UNTIL封装.iml" filepath="$PROJECT_DIR$/08-JDBC UNTIL封装/08-JDBC UNTIL封装.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-JDBC-DAO类的封装/09-JDBC-DAO类的封装.iml" filepath="$PROJECT_DIR$/09-JDBC-DAO类的封装/09-JDBC-DAO类的封装.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-JDBC-Util和DAO封装练习/10-JDBC-Util和DAO封装练习.iml" filepath="$PROJECT_DIR$/10-JDBC-Util和DAO封装练习/10-JDBC-Util和DAO封装练习.iml" />
       <module fileurl="file://$PROJECT_DIR$/Car.iml" filepath="$PROJECT_DIR$/Car.iml" />
     </modules>
   </component>
