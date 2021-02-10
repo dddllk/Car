@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/05-JDBC预编译/05-JDBC预编译.iml" filepath="$PROJECT_DIR$/05-JDBC预编译/05-JDBC预编译.iml" />
       <module fileurl="file://$PROJECT_DIR$/06-JDBC事务控制/06-JDBC事务控制.iml" filepath="$PROJECT_DIR$/06-JDBC事务控制/06-JDBC事务控制.iml" />
       <module fileurl="file://$PROJECT_DIR$/07-部门管理系统/07-部门管理系统.iml" filepath="$PROJECT_DIR$/07-部门管理系统/07-部门管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-JDBC UNTIL封装/08-JDBC UNTIL封装.iml" filepath="$PROJECT_DIR$/08-JDBC UNTIL封装/08-JDBC UNTIL封装.iml" />
       <module fileurl="file://$PROJECT_DIR$/Car.iml" filepath="$PROJECT_DIR$/Car.iml" />
     </modules>
   </component>
