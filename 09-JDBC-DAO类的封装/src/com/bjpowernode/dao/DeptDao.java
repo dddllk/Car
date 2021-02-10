@@ -16,7 +16,7 @@ import java.util.List;
  */
 public class DeptDao {
   // 调用工具类
-  private JdbcUtil util = new JdbcUtil();
+  private final JdbcUtil util = new JdbcUtil();
 
   // 添加数据行
   public int add(int deptNo, String dname, String loc){
