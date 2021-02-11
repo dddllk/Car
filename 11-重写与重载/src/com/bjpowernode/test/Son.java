@@ -16,7 +16,6 @@ package com.bjpowernode.test;
  * 		2）由private或者final修饰方法不能被重写
  * 		3）重写方法时，抛出异常可以是父类方法抛出异常全集，子集，空集
  * 		4）重写方法返回值，可以缩小返回类型范围，但是不能增加返回类型范围。
- * 2.throw和throws的区别
  */
 public class Son extends Father{
   @Override
